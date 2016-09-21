@@ -1,0 +1,16 @@
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\bin\Debug\VisionModel.dll
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\bin\Debug\VisionModel.pdb
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\bin\Debug\VisionModel.pri
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\VisionModel.dll
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\VisionModel.pdb
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\priconfig.xml
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\priconfig.xml.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\layout.resfiles
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\layout.resfiles.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\resources.resfiles
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\resources.resfiles.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\pri.resfiles
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\pri.resfiles.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\qualifiers.txt
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\qualifiers.txt.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\VisionModel\obj\Debug\MultipleQualifiersPerDimensionFound.txt

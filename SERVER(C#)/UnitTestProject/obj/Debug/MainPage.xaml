@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="UnitTestProject.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UnitTestProject"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:ConnectionId='1' Content="서버 만들기" HorizontalAlignment="Left" Height="183" Margin="193,88,0,0" VerticalAlignment="Top" Width="286"                     />
+        <Button x:ConnectionId='2' Content="서버 종료" HorizontalAlignment="Left" Height="183" Margin="765,88,0,0" VerticalAlignment="Top" Width="286"                        />
+        <Button x:ConnectionId='3' Content="서버 접속" HorizontalAlignment="Left" Height="112" Margin="193,339,0,0" VerticalAlignment="Top" Width="186"                       />
+        <Button x:ConnectionId='4' Content="성공 로그인 데이터" HorizontalAlignment="Left" Height="112" Margin="643,339,0,0" VerticalAlignment="Top" Width="186"                        />
+        <Button x:ConnectionId='5' Content="파일 데이터" HorizontalAlignment="Left" Height="112" Margin="942,339,0,0" VerticalAlignment="Top" Width="186"                        />
+
+    </Grid>
+</Page>
+

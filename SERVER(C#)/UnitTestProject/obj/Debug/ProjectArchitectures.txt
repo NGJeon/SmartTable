@@ -1,0 +1,2 @@
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\SocketService.csproj;neutral
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\UnitTestProject.csproj;neutral

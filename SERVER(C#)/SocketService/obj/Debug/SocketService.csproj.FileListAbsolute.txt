@@ -1,0 +1,16 @@
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\bin\Debug\SocketService.dll
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\bin\Debug\SocketService.pdb
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\bin\Debug\SocketService.pri
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\SocketService.dll
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\SocketService.pdb
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\priconfig.xml
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\priconfig.xml.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\layout.resfiles
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\layout.resfiles.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\resources.resfiles
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\resources.resfiles.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\pri.resfiles
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\pri.resfiles.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\qualifiers.txt
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\qualifiers.txt.intermediate
+C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\obj\Debug\MultipleQualifiersPerDimensionFound.txt

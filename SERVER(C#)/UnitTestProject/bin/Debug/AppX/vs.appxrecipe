@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JNG</Machine>
+    <WindowsUser>NgJeon</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bef70164-d745-40dd-b93d-74a7d39641f5</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B91FE5FF92E3003380D3B6E6B74D8F19ACA67F48A2E66FF4FB3C3FF74D795638</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bef70164-d745-40dd-b93d-74a7d39641f5_1.0.0.0_neutral__jtymaqn4jj0na</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bef70164-d745-40dd-b93d-74a7d39641f5_jtymaqn4jj0na!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bef70164-d745-40dd-b93d-74a7d39641f5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=NgJeon</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-16T20:28:18.444</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\bin\Debug\UnitTestProject.exe">
+      <PackagePath>UnitTestProject.exe</PackagePath>
+      <Modified>2014-11-17T20:36:04.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\SocketService\bin\Debug\SocketService.dll">
+      <PackagePath>SocketService.dll</PackagePath>
+      <Modified>2014-11-17T01:06:54.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T21:12:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T21:12:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T21:12:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T21:12:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-16T20:28:18.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-17T13:41:04.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\bin\Debug\UnitTestProject.xr.xml">
+      <PackagePath>UnitTestProject.xr.xml</PackagePath>
+      <Modified>2014-11-06T13:38:13.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\NgJeon\Documents\Visual Studio 2013\Projects\VisionTest\UnitTestProject\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-16T20:28:18.335</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
